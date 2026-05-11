@@ -39,7 +39,7 @@ The project uses a multilingual **RoBERTa-based LLM** fine-tuned for:
 - Sentiment understanding
 
 ### Dataset
-- Approximately **3000 manually labeled samples**
+- Approximately **28000 manually labeled samples**
 - Multilingual text data
 - Social media comments and user messages
 
