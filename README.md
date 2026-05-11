@@ -46,7 +46,6 @@ The project uses a multilingual **RoBERTa-based LLM** fine-tuned for:
 ### Labels
 - Normal
 - Sarcastic
-- Cyberbullying
 
 ---
 
