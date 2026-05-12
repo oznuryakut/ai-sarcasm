@@ -1,0 +1,10 @@
+venv313/
+venv310/
+venv310_py310/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+__pycache__/
+.DS_Store
