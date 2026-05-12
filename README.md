@@ -155,9 +155,10 @@ Computer Engineering Graduation Project
 
 This project was developed for educational and research purposes.
 
+<img width="1280" height="236" alt="image" src="https://github.com/user-attachments/assets/f14742c9-6199-4c84-a9d5-3ae9f27dbd7a" />
 
-<img width="1280" height="236" alt="image" src="https://github.com/userattachments/assets/7667b5a3-81ce-4d42-88d0-9f3a62961867" />
+<img width="1280" height="299" alt="image" src="https://github.com/user-attachments/assets/e5ca93db-3eb6-42db-b643-cf4a9286db41" />
 
-<img width="1280" height="299" alt="image" src="https://github.com/userattachments/assets/12f74de3-0de6-466b-aa33-c1cc19526765" />
-<img width="1280" height="371" alt="image" src="https://github.com/userattachments/assets/f62a2ce9-2767-42b2-87b4-4ae1926693b1" />
+<img width="1280" height="371" alt="image" src="https://github.com/user-attachments/assets/c075091c-bc11-4450-9c70-47704b874f53" />
+
 
